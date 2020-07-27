@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EuclidAlgorithm</string>
+    <string name="euclid_s_alogorithm_calculator">Euclid\'s Alogorithm Calculator</string>
+    <string name="button_label_calculate">Calculate</string>
+    <string name="enter_numerator_hint">Enter numerator</string>
+    <string name="enter_denominator_hint">Enter denominator</string>
+</resources>
